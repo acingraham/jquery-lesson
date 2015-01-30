@@ -4,6 +4,7 @@ An intro to some examples using jQuery and jQuery plugins
 ## Outline
 - Basics
   - What to include
+  - this and document
 - Animations
   - What to include 
 - Ajax
