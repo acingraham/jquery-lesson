@@ -3,7 +3,9 @@ An intro to some examples using jQuery and jQuery plugins
 
 ## Outline
 - Basics
+  - What to include
 - Animations
+  - What to include 
 - Ajax
 - Plugins
   - pixelation (http://www.jqueryrain.com/?ShIUXd_I)
