@@ -6,7 +6,7 @@ An intro to some examples using jQuery and jQuery plugins
   - What to include
   - this and document
 - Animations
-  - What to include 
+  - What to include - http://jsbin.com/lehifa/1/edit?html,js,console,output
 - Ajax
 - Plugins
   - pixelation (http://www.jqueryrain.com/?ShIUXd_I)
