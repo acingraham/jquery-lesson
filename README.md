@@ -31,3 +31,5 @@ NOTE TO SELF - May want to create plunkr examples in case jsbin keeps crashing.
   - Google Maps (http://hpneo.github.io/gmaps/)
   - Waterpipe.js - background generator (https://github.com/dragdropsite/waterpipe.js/)
 - Example projects
+- 
+## [Link to Slides](http://bit.ly/scripted-jquery)
